@@ -1,8 +1,7 @@
 # Body-of-Work
 UCB Cybersecurity Works 
 
-#view in RaW to avoid formatting errors!!
-
+# View in RAW to avoid formatting errors
 
 Automated ELK Stack =Deployment
 The files in this repository were used to configure the network depicted below.
