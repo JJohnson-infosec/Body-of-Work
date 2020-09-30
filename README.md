@@ -31,8 +31,8 @@ The configuration details of each machine may be found below.
 
 
 
-Name            Function    IP Address    Operating System Jump Box    Gateway    10.0.0.1         
-Linux
+Name            Function    IP Address    Operating System 
+Jump Box      Gateway    10.0.0.1            Linux
 DVWA1         Web Server  10.0.0.7           Linux
 DVWA2         Web Server  10.0.0.8           Linux 
 ELK           Monitoring  10.1.0.4           Linux
