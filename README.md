@@ -1,12 +1,10 @@
 # Body-of-Work
 UCB Cybersecurity Works 
 
-=====================
-**VIEW AS RAW**
-=====================
+#view in RaW to avoid formatting errors!!
 
 
-Automated ELK Stack Deployment
+Automated ELK Stack =Deployment
 The files in this repository were used to configure the network depicted below.
 https://github.com/JJohnson-infosec/Body-of-Work.git
 
